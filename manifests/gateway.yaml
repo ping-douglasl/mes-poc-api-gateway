@@ -6,6 +6,5 @@ spec:
   gatewayClassName: nginx
   listeners:
   - name: http
-    hostname: mes.karsten.com
     port: 80
     protocol: HTTP
